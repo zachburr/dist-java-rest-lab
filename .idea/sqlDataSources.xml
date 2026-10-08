@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="1f7d0034-0024-4bb7-b9c5-df91724598af" />
+          <option name="name" value="DDL data source" />
+          <option name="dbmsName" value="H2" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/dist-java-stock-purchase-master/src/main/resources/schema.sql" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
